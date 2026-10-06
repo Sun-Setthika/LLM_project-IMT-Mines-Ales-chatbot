@@ -2,7 +2,9 @@
 (AI-Powered Chatbot for International Students)
 
 ## Demo
-https://github.com/user-attachments/assets/143c012c-5d5d-43e1-85e8-3e7858159fcf
+https://github.com/user-attachments/assets/3e8b540f-9950-4d56-ad9b-37a80de4eace
+
+
 
 File Description:
 ### ChatBot_Colab is the notebook for fine-tuning with the json dataset
