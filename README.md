@@ -2,7 +2,9 @@
 (AI-Powered Chatbot for International Students)
 
 ## Demo
-https://github.com/user-attachments/assets/3e8b540f-9950-4d56-ad9b-37a80de4eace
+https://github.com/user-attachments/assets/edb68ace-5cac-4bb3-909d-487f17dfb030
+
+
 
 
 
